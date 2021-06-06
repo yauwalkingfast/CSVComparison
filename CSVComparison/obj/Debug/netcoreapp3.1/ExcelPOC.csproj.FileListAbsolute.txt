@@ -1,0 +1,16 @@
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\ExcelPOC.exe
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\ExcelPOC.deps.json
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\ExcelPOC.runtimeconfig.json
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\ExcelPOC.runtimeconfig.dev.json
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\ExcelPOC.dll
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\ExcelPOC.pdb
+C:\Users\Yau\source\repos\Excel\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.csprojAssemblyReference.cache
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.csproj.ResolveComReference.cache
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.AssemblyInfoInputs.cache
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.AssemblyInfo.cs
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.csproj.CoreCompileInputs.cache
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.dll
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.pdb
+C:\Users\Yau\source\repos\Excel\obj\Debug\netcoreapp3.1\ExcelPOC.genruntimeconfig.cache

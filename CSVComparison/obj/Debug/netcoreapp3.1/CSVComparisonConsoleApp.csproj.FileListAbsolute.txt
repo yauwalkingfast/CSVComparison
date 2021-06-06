@@ -1,0 +1,16 @@
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\CSVComparisonConsoleApp.exe
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\CSVComparisonConsoleApp.deps.json
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\CSVComparisonConsoleApp.runtimeconfig.json
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\CSVComparisonConsoleApp.runtimeconfig.dev.json
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\CSVComparisonConsoleApp.dll
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\CSVComparisonConsoleApp.pdb
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.csprojAssemblyReference.cache
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.csproj.ResolveComReference.cache
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.AssemblyInfo.cs
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.dll
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.pdb
+C:\Users\Yau\Desktop\CSVComparison\CSVComparison\obj\Debug\netcoreapp3.1\CSVComparisonConsoleApp.genruntimeconfig.cache

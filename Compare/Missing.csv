@@ -1,0 +1,5 @@
+TableName,ColumnName,ColumnNumber,DataType,Precision
+Mahjong,HongKong,5,Memory,144
+Poker,Texas,4,PokerFace,52
+Roulette,DoubleZero,2,HouseAdvantage,38
+TaiDi,NoName,1,Fair,52

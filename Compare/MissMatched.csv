@@ -1,0 +1,6 @@
+﻿TableName,ColumnName,ColumnNumber,DataType,Precision
+Mahjong,HongKong,5,Memory,148
+Poker,Texas,4,PokerFace,52
+BigSmall,3Dice,3,Luck,18
+Roulette,DoubleZero,2,HouseAdvantage,38
+TaiDi,NoName,1,Skill,52
